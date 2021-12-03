@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]("../src/app/assets/images/screenshoots/web-version.png")
+![](../src/app/assets/images/screenshoots/web-version.png)
 ![]("../src/app/assets/images/screenshoots/mobile-version.png")
 
 ### Links
